@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Contact extends Component {
+class Gallery extends Component {
   constructor(props) {
     super(props);
     this.state = {}
@@ -8,10 +8,10 @@ class Contact extends Component {
   render() {
     return (
       <div>
-        Contact
+        Gallery
       </div>
     );
   }
 }
 
-export default Contact;
+export default Gallery;
