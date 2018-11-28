@@ -8,7 +8,7 @@ class About extends Component {
   render() {
     return (
       <div>
-        About
+        Welcome to the About page! 
       </div>
     );
   }
